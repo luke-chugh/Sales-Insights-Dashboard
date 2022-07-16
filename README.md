@@ -14,4 +14,4 @@ You have been hired by a Global Superstore (retail company). Your clients need a
 
 ## SOLUTION:
 
-![Capture](https://github.com/luke-chugh/Book-Recommender-WebApp/blob/main/screenshots/1.png)
+![Capture](https://github.com/luke-chugh/Sales-Insight-Dashboard/blob/main/Dashboard.png)
