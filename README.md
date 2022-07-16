@@ -11,3 +11,7 @@ You have been hired by a Global Superstore (retail company). Your clients need a
 - Build a relational data model.
 - Create new calculated columns and DAX measures.
 - Design an interactive report/ dashboard to analyze and visualize the data.
+
+## SOLUTION:
+
+![Capture](https://github.com/luke-chugh/Book-Recommender-WebApp/blob/main/screenshots/1.png)
