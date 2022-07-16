@@ -1,5 +1,7 @@
 # Sales-Insight-Dashboard
 
+This is my PowerBI project
+
 ## PROBLEM STATEMENT:
 
 You have been hired by a Global Superstore (retail company). Your clients need a way to track sales, revenue, profits and returns. Analyze the product level trends, market trends in different regions, sales trends in different domains/ segments and identify the high value customers.
