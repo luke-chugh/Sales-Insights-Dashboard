@@ -1,4 +1,4 @@
-# Sales-Insight-Dashboard
+# Sales-Insights-Dashboard
 
 ## PROBLEM STATEMENT:
 
